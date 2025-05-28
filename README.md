@@ -1,7 +1,6 @@
 # 👨‍💻 João Paulo Cordeiro
 
 Olá trabalho há mais de 9 anos com desenvolvimento de software, onde programei em algumas linguagens como: Javascript, PHP e Java.
-Gosto bastante de estudar Arquitetura de Software, de entender e de como lidar com os trade-offs das diversas abordagens.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joaopaulo-cordeiro/">
