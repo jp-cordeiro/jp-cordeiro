@@ -1,6 +1,8 @@
 # 👨‍💻 João Paulo Cordeiro
 
-Olá trabalho há mais de 9 anos com desenvolvimento de software, onde programei em algumas linguagens como: Javascript, PHP e Java.
+Olá!
+<br/>
+Trabalho há mais de 9 anos com desenvolvimento de software, onde programei em algumas linguagens como: Javascript, PHP e Java.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joaopaulo-cordeiro/">
