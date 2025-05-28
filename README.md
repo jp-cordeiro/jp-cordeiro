@@ -107,7 +107,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jp-cordeiro&show_icons=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=jp-cordeiro&show_icons=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&PAT_1" 
   />
 
 <img 
