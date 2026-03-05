@@ -104,17 +104,5 @@ Trabalho há mais de 9 anos com desenvolvimento de software, onde programei em a
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  [![JP GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-cordeiro)](https://github.com/jp-cordeiro/github-readme-stats)
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cordeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
 
