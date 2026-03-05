@@ -107,13 +107,7 @@ Trabalho há mais de 9 anos com desenvolvimento de software, onde programei em a
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jp-cordeiro&show_icons=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&PAT_1" 
-  />
+  [![JP GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-cordeiro)](https://github.com/jp-cordeiro/github-readme-stats)
 
 <img 
       align="left" 
